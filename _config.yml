@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hoe Krijg Je Het Voor Elkaar?
-email: your-email@example.com
+email: reinier@ladan.email
 description: >- # this means to ignore newlines until "baseurl:"
   Hoe Krijg Je Het Voor Elkaar is een podcast waarin wordt gezocht naar _hoe_ mensen werken.
 baseurl: "" # the subpath of your site, e.g. /blog
