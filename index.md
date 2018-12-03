@@ -6,3 +6,5 @@ layout: home
 ---
 
 Hier komt de website voor de nieuwe podcast van [Reinier Ladan](https://reinier.io): Hoe Krijg Je Het Voor Elkaar. _Stay Tuned_.
+
+Wat je al wel kunt doen is de podcast volgen op Twitter: [@krijgvoorelkaar](https://twitter.com/krijgvoorelkaar)
