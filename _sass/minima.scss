@@ -69,3 +69,11 @@ $on-large:         $on-laptop !default;
 .rl-form textarea {
   height: 10em;
 }
+
+header.site-header {
+  background-color: #355FE5;
+
+  a.site-title, a.page-link {
+    color: #fff;
+  }
+}
