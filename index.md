@@ -5,7 +5,10 @@
 layout: home
 ---
 
-![Cover artwork Hoe Krijg Je Het Voor Elkaar](/assets/images/HKJHVEK-500px.jpg)
+<div class="cover-artwork"><img src="/assets/images/HKJHVEK-500px.jpg"></div>
+
+
+![Cover artwork Hoe Krijg Je Het Voor Elkaar]()
 
 In de Hoe Krijg Je Het Voor Elkaar podcast gaat [Reinier Ladan](https://reinier.io) op zoek naar _hoe_ mensen werken en _hoe_ ze dingen gedaan krijgen. De podcast is al te vinden in je podcast app of [in iTunes met tijdelijk cover-artwork en een teaser aflevering](https://itunes.apple.com/nl/podcast/hoe-krijg-je-het-voor-elkaar/id1446011449?l=nl). De eerste aflevering van de podcast gaat ergens halverwege januari uitkomen.
 
