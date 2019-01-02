@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hoe Krijg Je Het Voor Elkaar is een podcast waarin wordt gezocht naar _hoe_ mensen werken.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: reinier
+twitter_username: hoevoorelkaar
 
 # Build settings
 markdown: kramdown
