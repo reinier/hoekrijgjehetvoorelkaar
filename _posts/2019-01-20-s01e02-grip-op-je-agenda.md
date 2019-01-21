@@ -7,8 +7,6 @@ categories: shownotes
 
 <iframe width="560" height="80" scrolling="no" frameborder="no" src="https://fireside.fm/s/R68v5wVn+_LA6VQOb/iframe"></iframe>
 
----
-
 In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mijn idee bij een agenda was altijd dat je daar je afspraken in zet maar Rick neemt dat nogal breed op. Hij zet zijn bezigheden in zijn agenda en ziet dat als afspraken met zichzelf. Een erg fijne manier om je toekomstige zelf een beetje wegwijs te maken in de dag die komen gaat. Vind je het een fijne podcast en zou je me willen steunen in het maken ervan? [Op Patreon vind je hoe je dat kunt doen](https://patreon.com/reinier).
 
 ## Links naar dingen uit deze aflevering
