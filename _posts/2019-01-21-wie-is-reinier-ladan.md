@@ -11,6 +11,6 @@ In 2005 las ik het boek [Getting Things Done](https://www.goodreads.com/book/sho
 
 Via deze interesse kwam ik [Rick Pastoor](https://rickpastoor.com) online tegen en we besloten om zo nu en dan eens koffie te drinken en over het maken van producten en het managen van teams te gaan praten. Toen Rick me vertelde dat hij [met een boek bezig was](http://gripboek.nl) en vervolgens een oproepje plaatste in zijn nieuwsbrief met de vraag wie hem kon helpen met promotie ging er bij mij een lampje branden. Op mijn Grote Ideeenlijst (een steeds verder uit de klauwen lopende lijst met ideeën voor producten en diensten) stond het maken van een podcast over productiviteit en ik zag meteen de connectie tussen de vraag om promotie van Rick en mijn behoefte om een podcast over dit onderwerp te maken. Zo gezegd, zo gedaan en een paar maanden later staan de eerste twee afleveringen online.
 
-Je kunt de afleveringen luisteren op alle plekken waar je een podcast kunt luisteren (behalve op Stitcher want die hebben verschrikkelijke voorwaarden). Abonneer je op de podcast en elke maandagochtend krijg je vanzelf een nieuwe aflevering te beluisteren.
+Je kunt de afleveringen luisteren op alle plekken waar je een podcast kunt luisteren (behalve op Stitcher want die hebben verschrikkelijke voorwaarden). **Abonneer je op de podcast en elke maandagochtend krijg je vanzelf een nieuwe aflevering te beluisteren.**
 
 Heb je een vraag aan Rick of aan mij over dit onderwerp die we in de podcast kunnen behandelen? Schroom niet en stel je vraag via dit formulier.
