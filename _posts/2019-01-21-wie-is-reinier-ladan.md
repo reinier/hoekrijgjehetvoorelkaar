@@ -13,4 +13,4 @@ Via deze interesse kwam ik [Rick Pastoor](https://rickpastoor.com) online tegen 
 
 Je kunt de afleveringen luisteren op alle plekken waar je een podcast kunt luisteren (behalve op Stitcher want die hebben verschrikkelijke voorwaarden). **Abonneer je op de podcast en elke maandagochtend krijg je vanzelf een nieuwe aflevering te beluisteren.**
 
-Heb je een vraag aan Rick of aan mij over dit onderwerp die we in de podcast kunnen behandelen? Schroom niet en stel je vraag via dit formulier.
+Heb je een vraag aan Rick of aan mij over dit onderwerp die we in de podcast kunnen behandelen? [Schroom niet en stel je vraag via dit formulier](/stel-een-vraag/).
