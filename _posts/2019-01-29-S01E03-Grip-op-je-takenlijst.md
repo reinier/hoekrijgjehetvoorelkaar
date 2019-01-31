@@ -22,3 +22,7 @@ Je kunt de [Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon 
 ## Stel een vraag
 
 - [Stel een vraag aan Rick of aan Reinier](https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/)
+
+## En verder…
+
+De productiviteitscameo in deze aflevering is met [Daan van Klinken](https://twitter.com/daanriver)

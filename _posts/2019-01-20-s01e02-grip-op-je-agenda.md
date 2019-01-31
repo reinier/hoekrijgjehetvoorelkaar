@@ -18,3 +18,7 @@ In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mi
 ## Stel een vraag
 
 - [Stel een vraag aan Rick of aan Reinier](https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/)
+
+## En verder…
+
+De productiviteitscameo in deze aflevering is met [Alexander Klöpping](https://twitter.com/AlexanderNL)
