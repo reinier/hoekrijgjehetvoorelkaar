@@ -21,4 +21,4 @@ In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mi
 
 ## En verder…
 
-De productiviteitscameo in deze aflevering is met [Alexander Klöpping](https://twitter.com/AlexanderNL)
+De productiviteitscameo in deze aflevering is met [Alexander Klöpping](https://twitter.com/AlexanderNL).

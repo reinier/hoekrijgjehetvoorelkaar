@@ -25,4 +25,4 @@ Je kunt de [Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon 
 
 ## En verder…
 
-De productiviteitscameo in deze aflevering is met [Daan van Klinken](https://twitter.com/daanriver)
+De productiviteitscameo in deze aflevering is met [Daan van Klinken](https://twitter.com/daanriver).

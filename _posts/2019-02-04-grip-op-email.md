@@ -28,4 +28,4 @@ Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon t
 
 ## En verder…
 
-De productiviteitscameo is deze aflevering met [Peter van Grieken](https://twitter.com/petervangrieken)
+De productiviteitscameo is deze aflevering met [Peter van Grieken](https://twitter.com/petervangrieken).
