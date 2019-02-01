@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "S01E03 Grip op je takenlijst"
+title:  "S01E03. Grip op je takenlijst"
 date:   2019-01-28 07:00:00 +0100
 categories: shownotes
 ---

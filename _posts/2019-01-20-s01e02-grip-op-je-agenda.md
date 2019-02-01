@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "S01E02 Grip op je agenda"
+title:  "S01E02. Grip op je agenda"
 date:   2019-01-20 20:00:00 +0100
 categories: shownotes
 ---
