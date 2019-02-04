@@ -5,6 +5,8 @@ date:   2019-02-04 07:00:00 +0100
 categories: shownotes
 ---
 
+<iframe width="560" height="80" scrolling="no" frameborder="no" src="https://fireside.fm/s/R68v5wVn+mSyEEa0R/iframe"></iframe>
+
 In deze aflevering gaan we het beest dat e-mail heet temmen. E-mail is namelijk allang niet meer dat onschuldige medium uit de jaren ’90 waarmee je lekker kon pennen met iemand uit Vietnam of Alaska. Nee, e-mail is een ware plaag en sommige mensen worden helemaal beheerst door hun e-mail.
 
 Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
