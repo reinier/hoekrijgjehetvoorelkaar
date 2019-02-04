@@ -101,13 +101,14 @@ iframe {
   }
 
   input {
-    padding: 0.5em 1em;
-    font-size: 1.3em;
+    padding: 0.2em 0.5em;
+    font-size: 1.2em;
   }
 
   #bd-email {
     display: block;
-    max-width: 15em;
+    width: 100%;
+    max-width: 20em;
     margin-bottom: 0.5em;
   }
 }
