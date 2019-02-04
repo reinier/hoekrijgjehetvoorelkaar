@@ -15,6 +15,7 @@ In de Hoe Krijg Je Het Voor Elkaar podcast gaat [Reinier Ladan](https://reinier.
 Wat je al kunt doen is…
 
 - Je abonneren op de podcast via je podcast-app (zoeken naar 'Hoe Krijg Je Het Voor Elkaar') of [via iTunes](https://itunes.apple.com/nl/podcast/hoe-krijg-je-het-voor-elkaar/id1446011449?l=nl)
+- Op de hoogte blijven over ontwikkelingen van de Hoe Krijg Je Het Voor Elkaar podcast door [de Hoe Krijg Je Het Voor Elkaar nieuwsbrief](https://buttondown.email/hoekrijgjehetvoorelkaar).
 - De podcast volgen op Twitter: [@hoevoorelkaar](https://twitter.com/hoevoorelkaar)
 - Reinier steunen op Patreon om de podcast nog fijner te maken: [Hoe Krijg Je Het Voor Elkaar op Patreon](http://patreon.com/reinier)
 - [Een vraag stellen](/stel-een-vraag/) die we in een aflevering kunnen behandelen
