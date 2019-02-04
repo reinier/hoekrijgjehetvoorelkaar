@@ -90,3 +90,12 @@ header.site-header {
 iframe {
   margin-bottom: 2em;
 }
+
+.embeddable-buttondown-form {
+  padding: 1em;
+  border: 5px solid #ededed;
+
+  label {
+    display: block;
+  }
+}
