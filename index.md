@@ -12,7 +12,7 @@ list_title: "Afleveringen en nieuws"
 
 In de Hoe Krijg Je Het Voor Elkaar podcast gaat [Reinier Ladan](https://reinier.io) op zoek naar _hoe_ mensen werken en _hoe_ ze dingen gedaan krijgen. De podcast is te vinden in je podcast app of [in iTunes](https://itunes.apple.com/nl/podcast/hoe-krijg-je-het-voor-elkaar/id1446011449?l=nl). De afleveringen komen op maandagochtend uit zodat je onderweg naar je werk kunt luisteren.
 
-## Wat je al kunt doen is…
+## Wat je nu kunt doen is…
 
 - Je abonneren op de podcast via je podcast-app (zoeken naar 'Hoe Krijg Je Het Voor Elkaar') of [via iTunes](https://itunes.apple.com/nl/podcast/hoe-krijg-je-het-voor-elkaar/id1446011449?l=nl)
 - Op de hoogte blijven over ontwikkelingen van de Hoe Krijg Je Het Voor Elkaar podcast door [de Hoe Krijg Je Het Voor Elkaar nieuwsbrief](/nieuwsbrief/).
