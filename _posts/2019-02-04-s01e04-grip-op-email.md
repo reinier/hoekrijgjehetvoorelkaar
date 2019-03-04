@@ -9,10 +9,7 @@ categories: shownotes
 
 In deze aflevering gaan we het beest dat e-mail heet temmen. E-mail is namelijk allang niet meer dat onschuldige medium uit de jaren ’90 waarmee je lekker kon pennen met iemand uit Vietnam of Alaska. Nee, e-mail is een ware plaag en sommige mensen worden helemaal beheerst door hun e-mail.
 
-Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
-
-- [Hoe Krijg Je Het Voor Elkaar website](https://hoekrijgjehetvoorelkaar.nl)
-- [Hoe Krijg Je Het Voor Elkaar Patreon](http://patreon.com/reinier)
+Je kunt de [Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden](http://patreon.com/reinier) of je vrienden en familie te tippen over de podcast.
 
 ## Links naar dingen uit deze aflevering
 
