@@ -77,8 +77,16 @@ a {
 header.site-header {
   background-color: #355FE5;
 
+  .site-nav {
+    background-color: #355FE5;
+  }
+
   a.site-title, a.page-link {
     color: #fff;
+  }
+
+  .menu-icon > svg {
+    fill: #fff;
   }
 }
 
